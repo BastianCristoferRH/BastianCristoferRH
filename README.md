@@ -8,7 +8,7 @@
 - 🎓 Ingeniero en Informática (Duoc UC, 6.2 promedio)
 - 🎯 Actualmente estudiando Técnico en Ciberseguridad (IACC)
 - 💡 Me especializo en desarrollo web, optimización y seguridad
-- 🔍 Interesado en desarrollo front-end, automatización y análisis de datos
+- 🔍 Interesado en desarrollo Back-end, automatización y análisis de datos
 - 📚 Siempre aprendiendo algo nuevo: autodidacta y entusiasta del crecimiento profesional
 
 ---
